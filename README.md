@@ -4,3 +4,7 @@ An e-commerce website using Magento 2 filled with sample data. I've created a ne
 ## Appearance
 
 ![Screen Shot 2019-09-12 at 8 47 20 PM](https://user-images.githubusercontent.com/25471394/64836481-e5e43c80-d59e-11e9-8f40-070fca402d18.png)
+
+![Screen Shot 2019-09-12 at 8 54 58 PM](https://user-images.githubusercontent.com/25471394/64836647-beda3a80-d59f-11e9-831e-540186cb6e9a.png)
+
+![Screen Shot 2019-09-12 at 8 53 37 PM](https://user-images.githubusercontent.com/25471394/64836650-c26dc180-d59f-11e9-9143-41a897b118ca.png)
