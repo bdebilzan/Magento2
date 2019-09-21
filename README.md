@@ -19,7 +19,7 @@ Magento 2.3 technology stack requirements
 
 ### Installing
 
-Clone the repository
+Clone the repository:
 
     git clone https://github.com/bdebilzan/Magento2.git
 
@@ -27,7 +27,7 @@ Run from the command line in the root folder:
 
     composer install
 
-*You must enter authentication keys when prompted for username and password in CLI.*
+*You must enter authentication keys when prompted for username and password in the CLI.*
 
 To create authentication keys:
 
